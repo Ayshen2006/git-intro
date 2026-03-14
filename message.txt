@@ -1,1 +1,3 @@
+ HEAD
 Change from feature branch
+ 12689cd (Revert "Change message in main")
